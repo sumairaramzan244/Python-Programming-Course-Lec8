@@ -37,6 +37,6 @@ City    : Punjab, Pakistan
 ---
 
 Program : Punjab Hunarmand — Batch 3  
-Lecture : 8
-Topic   : Strings in Python
-Status  : In Proccess 
+Lecture : 8  
+Topic   : Strings in Python  
+Status  : In Proccess   
